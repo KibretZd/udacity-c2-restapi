@@ -3,7 +3,7 @@ export const config = {
     "username": "kibretudagramdev",
     "password": "kibretudagramdev",
     "database": "kibretudagramdev",
-    "host": "kibretudagramdev.ch3v33wev4dl.us-east-1.rds.amazonaws.com",
+    "host": "localhost",
     "dialect": "postgres",
     "aws_region": "us-east-1",
     "aws_profile": "default",
